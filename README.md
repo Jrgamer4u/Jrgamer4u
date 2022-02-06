@@ -23,6 +23,10 @@
 	Haxe
 	<br>
 	JavaScript
+	<br>
+	HTML
+	<br>
+	Python
 </h4 align="center">
 <br>
 <h2 align="center">

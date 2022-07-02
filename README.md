@@ -26,4 +26,6 @@ Haxe, JavaScript, HTML, Python
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrgamer4u&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrgamer4u&layout=compact&theme=dark)](https://github.com/jrgamer4u)
+
+![pronowns.page](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/JRGAMER4U-01G6YQVG1DVAKEWX9F9BQVYCMR-dark.png)
 </h2>

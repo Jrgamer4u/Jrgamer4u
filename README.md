@@ -1,7 +1,5 @@
-<h1 align="center">
+Currently using this as my website now.
 
-[JRGAMER4U.com](http://jrgamer4u.com)
-</h1>
 <h4 align="center">
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-black?style=for-the-badge&logo=Youtube)](https://www.youtube.com/JRGAMER4U)
@@ -26,5 +24,5 @@ Haxe, JavaScript, HTML, Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrgamer4u&layout=compact&theme=dark)](https://github.com/jrgamer4u)
 
-![pronowns.page](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/JRGAMER4U-01G6YQVG1DVAKEWX9F9BQVYCMR-dark.png)
+![pronowns.page](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/JRGAMER4U-01GNBG8N235A24C33JBVQYXR19-dark.png)
 </h2>

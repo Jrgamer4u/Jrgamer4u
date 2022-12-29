@@ -41,16 +41,22 @@
 	Upcoming Projects
 </h2>
 
-FNKNGT Version 2 Friday Night Funkin Mod
+FNKNGT Version 2 (Friday Night Funkin Mod)
 <br>
-
-Potential Python Discord Bot
 
 <h2>
 	Current Projects
 </h2>
 
-MipMachine EX & OBR Legacy (Discord Bot):
+OBR (Discord Bot)
+<br>
+
+<a href="https://github.com/jrgamer4u/OBR">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=jrgamer4u&repo=OBR&theme=transparent" alt="Readme Card">
+</a>
+<br>
+
+MipMachine EX (Discord Bot):
 <br>
 
 <a href="https://github.com/jrgamer4u/MipMachine-EX">
@@ -60,6 +66,11 @@ MipMachine EX & OBR Legacy (Discord Bot):
 <h2>
 	Previous Projects
 </h2>
+
+<a href="https://github.com/Jrgamer4u/MipMachine-EX/tree/Legacy">
+OBR Legacy (Discord Bot)
+</a>
+<br>
 
 BarBot 4 and Recovery Centere 2 (Discord Bot):
 <br>
@@ -77,7 +88,12 @@ Simple English (Twitter Bot):
 </a>
 <br>
 
-FNKNGT Friday Night Funkin Mod (now private)
+<a href="https://github.com/Jrgamer4u/MipMachine-EX/tree/CC1.0.2">
+Click Game (Discord Bot)
+</a>
+<br>
+
+FNKNGT (Friday Night Funkin Mod) (now private)
 <br>
 
 Marsan's The Battle For Someone's Money (Episode 1, now private)

@@ -9,7 +9,7 @@
 <a href="https://en.wikipedia.org/wiki/User:Jrgamer4u">
 	<img src="https://img.shields.io/badge/-Wikipedia-black?style=for-the-badge&logo=Wikipedia" alt="Wikipedia Badge">
 </a>
-<a href="https://twitter.com/okobern">
+<a href="https://twitter.com/jrgamer4u">
 	<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter" alt="Twitter Badge">
 </a>
 <a href="https://www.reddit.com/user/jrgamer4u">

@@ -41,14 +41,17 @@
 	Upcoming Projects
 </h2>
 
-FNKNGT Version 2 (Friday Night Funkin Mod)
-<br>
+flag thing i dunno
 
 <h2>
 	Current Projects
 </h2>
 
-OBR (Discord Bot)
+<h2>
+	Previous Projects
+</h2>
+
+OBR (Discord Bot):
 <br>
 
 <a href="https://github.com/jrgamer4u/OBR">
@@ -62,10 +65,7 @@ MipMachine EX (Discord Bot):
 <a href="https://github.com/jrgamer4u/MipMachine-EX">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=jrgamer4u&repo=MipMachine-EX&theme=transparent" alt="Readme Card">
 </a>
-
-<h2>
-	Previous Projects
-</h2>
+<br>
 
 <a href="https://github.com/Jrgamer4u/MipMachine-EX/tree/Legacy">
 OBR Legacy (Discord Bot)

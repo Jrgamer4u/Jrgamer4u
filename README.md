@@ -23,11 +23,6 @@
 </a>
 <br>
 
-<a href="https://en.pronouns.page/@JRGAMER4U">
-	<img src="pronowns-page.png" alt="pronowns.page">
-</a>
-<br>
-
 <a href="https://github.com/jrgamer4u">
 	<img src="https://github-readme-stats.vercel.app/api?username=jrgamer4u&theme=transparent" alt="GitHub stats">
 </a>
